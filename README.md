@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SHAlockHolmes
-- 👀 I’m interested in cybersecurity and sometimes graphic design
+- 👋 Hi, I’m @SHAlockHolmes aka Cheryl!
+- 👀 I’m interested in cybersecurity and graphic design
 - 🌱 I’m currently learning how to work with github :')
 
 <!---
